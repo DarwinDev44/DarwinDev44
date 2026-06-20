@@ -241,10 +241,12 @@ const darwindev44 = {
 
 ---
 
-## 🏆 Trophies
+## 📊 Coding Insights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarwinDev44&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DarwinDev44&theme=tokyonight" alt="Most Commit Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarwinDev44&theme=tokyonight&utcOffset=-5" alt="Productive Time"/>
 </div>
 
 ---
