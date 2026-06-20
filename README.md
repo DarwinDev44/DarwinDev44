@@ -112,28 +112,16 @@ const darwindev44 = {
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 <a href="https://github.com/DarwinDev44/proyectos">Dashboard Colombia</a></h3>
+    <td width="100%" valign="top" align="center" colspan="2">
+      <h3>📈 <a href="https://github.com/DarwinDev44/proyectos">Dashboard Colombia</a></h3>
       <p>Dashboard interactivo de datos de Colombia: mapas geográficos, gráficas dinámicas y procesamiento de datasets públicos con JavaScript.</p>
-      <p align="center">
+      <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
       </p>
-      <p align="center">
+      <p>
         <a href="https://darwindev44.github.io/proyectos/"><img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=flat-square" alt="Live Demo"/></a>
         <a href="https://github.com/DarwinDev44/proyectos"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏛️ <a href="https://gobierno-datos-ucundinamarca.vercel.app">Plataforma Gobierno de Datos</a></h3>
-      <p>Plataforma institucional de gobierno de datos (UdeC) construida con <strong>React + Vite + TypeScript + Supabase</strong>. Reportería server-side con Edge Functions y control de acceso por roles. <em>Demo pública en vivo.</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-      </p>
-      <p align="center">
-        <a href="https://gobierno-datos-ucundinamarca.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-00d4ff?style=flat-square" alt="Live Demo"/></a>
       </p>
     </td>
   </tr>
